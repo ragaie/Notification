@@ -19,7 +19,15 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    @IBAction func showNotification(_ sender: Any) {
+        
+         // Notification.init("sfsa").Show()
+        
+            Notification.init("welcome to my application", title: "welcome", date: Date() as NSDate).Show()
+        
+         }
 
+    @IBOutlet weak var showView: UIButton!
 
 }
 

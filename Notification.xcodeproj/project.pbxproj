@@ -10,20 +10,32 @@
 		8140D5691F72866C006CEB5B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8140D5681F72866C006CEB5B /* AppDelegate.swift */; };
 		8140D56B1F72866C006CEB5B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8140D56A1F72866C006CEB5B /* ViewController.swift */; };
 		8140D56E1F72866C006CEB5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8140D56C1F72866C006CEB5B /* Main.storyboard */; };
-		8140D5711F72866C006CEB5B /* Notification_simulate.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8140D56F1F72866C006CEB5B /* Notification_simulate.xcdatamodeld */; };
 		8140D5731F72866C006CEB5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8140D5721F72866C006CEB5B /* Assets.xcassets */; };
 		8140D5761F72866D006CEB5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8140D5741F72866C006CEB5B /* LaunchScreen.storyboard */; };
+		818428381F72A11300FB8E85 /* Notify.xib in Resources */ = {isa = PBXBuildFile; fileRef = 818428371F72A11300FB8E85 /* Notify.xib */; };
+		8184283A1F72A12200FB8E85 /* Notify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 818428391F72A12200FB8E85 /* Notify.swift */; };
+		81B4F38D1F77C059008E8172 /* kfc.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B4F38C1F77C059008E8172 /* kfc.png */; };
+		81B4F3911F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.01.08 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B4F38E1F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.01.08 PM.png */; };
+		81B4F3921F77C87E008E8172 /* Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B4F38F1F77C87E008E8172 /* Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png */; };
+		81B4F3931F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.03.00 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B4F3901F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.03.00 PM.png */; };
+		81B4F3971F77C8C0008E8172 /* Screen Shot 2017-09-24 at 1.04.18 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 81B4F3961F77C8C0008E8172 /* Screen Shot 2017-09-24 at 1.04.18 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8140D5651F72866C006CEB5B /* Notification-simulate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Notification-simulate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8140D5651F72866C006CEB5B /* Notification.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notification.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8140D5681F72866C006CEB5B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8140D56A1F72866C006CEB5B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8140D56D1F72866C006CEB5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8140D5701F72866C006CEB5B /* Notification_simulate.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Notification_simulate.xcdatamodel; sourceTree = "<group>"; };
 		8140D5721F72866C006CEB5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8140D5751F72866C006CEB5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8140D5771F72866D006CEB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		818428371F72A11300FB8E85 /* Notify.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Notify.xib; sourceTree = "<group>"; };
+		818428391F72A12200FB8E85 /* Notify.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Notify.swift; sourceTree = "<group>"; };
+		81B4F38C1F77C059008E8172 /* kfc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kfc.png; sourceTree = "<group>"; };
+		81B4F38E1F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.01.08 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-09-24 at 1.01.08 PM.png"; sourceTree = "<group>"; };
+		81B4F38F1F77C87E008E8172 /* Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png"; sourceTree = "<group>"; };
+		81B4F3901F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.03.00 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-09-24 at 1.03.00 PM.png"; sourceTree = "<group>"; };
+		81B4F3961F77C8C0008E8172 /* Screen Shot 2017-09-24 at 1.04.18 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-09-24 at 1.04.18 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +52,8 @@
 		8140D55C1F72866C006CEB5B = {
 			isa = PBXGroup;
 			children = (
+				81B4F3951F77C897008E8172 /* Notification component */,
+				81B4F3941F77C884008E8172 /* screen Shot */,
 				8140D5671F72866C006CEB5B /* Notification-simulate */,
 				8140D5661F72866C006CEB5B /* Products */,
 			);
@@ -48,7 +62,7 @@
 		8140D5661F72866C006CEB5B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8140D5651F72866C006CEB5B /* Notification-simulate.app */,
+				8140D5651F72866C006CEB5B /* Notification.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -62,17 +76,37 @@
 				8140D5721F72866C006CEB5B /* Assets.xcassets */,
 				8140D5741F72866C006CEB5B /* LaunchScreen.storyboard */,
 				8140D5771F72866D006CEB5B /* Info.plist */,
-				8140D56F1F72866C006CEB5B /* Notification_simulate.xcdatamodeld */,
 			);
 			path = "Notification-simulate";
+			sourceTree = "<group>";
+		};
+		81B4F3941F77C884008E8172 /* screen Shot */ = {
+			isa = PBXGroup;
+			children = (
+				81B4F3961F77C8C0008E8172 /* Screen Shot 2017-09-24 at 1.04.18 PM.png */,
+				81B4F38E1F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.01.08 PM.png */,
+				81B4F38F1F77C87E008E8172 /* Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png */,
+				81B4F3901F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.03.00 PM.png */,
+			);
+			name = "screen Shot";
+			sourceTree = "<group>";
+		};
+		81B4F3951F77C897008E8172 /* Notification component */ = {
+			isa = PBXGroup;
+			children = (
+				818428391F72A12200FB8E85 /* Notify.swift */,
+				818428371F72A11300FB8E85 /* Notify.xib */,
+				81B4F38C1F77C059008E8172 /* kfc.png */,
+			);
+			name = "Notification component";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8140D5641F72866C006CEB5B /* Notification-simulate */ = {
+		8140D5641F72866C006CEB5B /* Notification */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8140D57A1F72866D006CEB5B /* Build configuration list for PBXNativeTarget "Notification-simulate" */;
+			buildConfigurationList = 8140D57A1F72866D006CEB5B /* Build configuration list for PBXNativeTarget "Notification" */;
 			buildPhases = (
 				8140D5611F72866C006CEB5B /* Sources */,
 				8140D5621F72866C006CEB5B /* Frameworks */,
@@ -82,9 +116,9 @@
 			);
 			dependencies = (
 			);
-			name = "Notification-simulate";
+			name = Notification;
 			productName = "Notification-simulate";
-			productReference = 8140D5651F72866C006CEB5B /* Notification-simulate.app */;
+			productReference = 8140D5651F72866C006CEB5B /* Notification.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +138,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8140D5601F72866C006CEB5B /* Build configuration list for PBXProject "Notification-simulate" */;
+			buildConfigurationList = 8140D5601F72866C006CEB5B /* Build configuration list for PBXProject "Notification" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -117,7 +151,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8140D5641F72866C006CEB5B /* Notification-simulate */,
+				8140D5641F72866C006CEB5B /* Notification */,
 			);
 		};
 /* End PBXProject section */
@@ -127,9 +161,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B4F38D1F77C059008E8172 /* kfc.png in Resources */,
+				818428381F72A11300FB8E85 /* Notify.xib in Resources */,
+				81B4F3911F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.01.08 PM.png in Resources */,
 				8140D5761F72866D006CEB5B /* LaunchScreen.storyboard in Resources */,
 				8140D5731F72866C006CEB5B /* Assets.xcassets in Resources */,
 				8140D56E1F72866C006CEB5B /* Main.storyboard in Resources */,
+				81B4F3931F77C87E008E8172 /* Screen Shot 2017-09-24 at 1.03.00 PM.png in Resources */,
+				81B4F3921F77C87E008E8172 /* Simulator Screen Shot Sep 24, 2017, 1.00.39 PM.png in Resources */,
+				81B4F3971F77C8C0008E8172 /* Screen Shot 2017-09-24 at 1.04.18 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,7 +182,7 @@
 			files = (
 				8140D56B1F72866C006CEB5B /* ViewController.swift in Sources */,
 				8140D5691F72866C006CEB5B /* AppDelegate.swift in Sources */,
-				8140D5711F72866C006CEB5B /* Notification_simulate.xcdatamodeld in Sources */,
+				8184283A1F72A12200FB8E85 /* Notify.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8140D5601F72866C006CEB5B /* Build configuration list for PBXProject "Notification-simulate" */ = {
+		8140D5601F72866C006CEB5B /* Build configuration list for PBXProject "Notification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8140D5781F72866D006CEB5B /* Debug */,
@@ -299,28 +339,16 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8140D57A1F72866D006CEB5B /* Build configuration list for PBXNativeTarget "Notification-simulate" */ = {
+		8140D57A1F72866D006CEB5B /* Build configuration list for PBXNativeTarget "Notification" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8140D57B1F72866D006CEB5B /* Debug */,
 				8140D57C1F72866D006CEB5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		8140D56F1F72866C006CEB5B /* Notification_simulate.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				8140D5701F72866C006CEB5B /* Notification_simulate.xcdatamodel */,
-			);
-			currentVersion = 8140D5701F72866C006CEB5B /* Notification_simulate.xcdatamodel */;
-			path = Notification_simulate.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 8140D55D1F72866C006CEB5B /* Project object */;
 }
